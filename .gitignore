@@ -1,0 +1,9 @@
+node_modules/
+.idea/
+/dist/
+*.log
+*-compiled.js
+*-compiled.js.map
+*.key
+public/*.key
+
